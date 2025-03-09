@@ -4,13 +4,13 @@ Overview
 
 Singular Value Decomposition (SVD) is a fundamental technique in linear algebra with numerous applications in machine learning and data science. It decomposes a matrix into three matrices:
 
-            A = U \Sigma V^T
+            A = U $$\Sigma$$ V^T
 
 where:
 
 U: Left singular vectors (orthogonal matrix)
 
-\Sigma: Diagonal matrix of singular values
+$$\Sigma$$ : Diagonal matrix of singular values
 
 V^T: Right singular vectors (orthogonal matrix)
 
